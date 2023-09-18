@@ -26,3 +26,5 @@ function signIn(user, pass) {
         alert("Sorry, wrong username and password!");
     }
 }
+
+signIn(userNamePrompt, passwordPrompt);
