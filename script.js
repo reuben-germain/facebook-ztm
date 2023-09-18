@@ -15,3 +15,6 @@ var newsFeed = [
         timeline: "Javascript is so coool!"
     }
 ];
+
+var userNamePrompt = prompt("What is your username?");
+var passwordPrompt = prompt("What's your password?");
